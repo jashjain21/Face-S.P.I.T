@@ -1797,13 +1797,15 @@
 ===================================================================  */
     
     #video {
-        background-image: url(../images/background2.jpg);
+        background-color: black;
+        background-image: url(../images/fire2.gif);
         background-attachment: fixed;
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
         text-align: center;
         padding: 10% 0%;
+        background-size: auto
     }
     
     .modal {
