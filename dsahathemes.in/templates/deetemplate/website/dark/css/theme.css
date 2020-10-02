@@ -1685,7 +1685,6 @@
         margin: 15px 0;
         padding: 0;
     }
-    
     .team-member p {
         margin-top: 25px;
     }
@@ -1698,7 +1697,7 @@
     }
     
     .team-member figure img {
-        min-width: 100%;
+        min-width: 65%;
     }
     
     .team-member figcaption p {
@@ -1765,7 +1764,6 @@
         -o-transition: all 0.3s ease-in-out;
         transition: all 0.3s ease-in-out;
     }
-    
     .team-member figure:hover figcaption {
         visibility: visible;
         color: #ffffff;
