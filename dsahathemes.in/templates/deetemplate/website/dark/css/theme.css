@@ -1698,6 +1698,7 @@
     
     .team-member figure img {
         min-width: 65%;
+        margin-left: 90px;
     }
     
     .team-member figcaption p {
